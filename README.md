@@ -23,7 +23,7 @@ To uncover patterns in trending YouTube videos across multiple countries using d
 │   └── sql_analysis.py            # SQL query for ranking categories
 ├── dashboard/                     # Power BI Dashboard file (.pbip)
 ├── output/
-│   └── combined_files.excel       # Final cleaned dataset
+│   └── combined_files.xlsx        # Final cleaned dataset
 ├── README.md
 └── YouTube_Trending_Report.pdf    # Final report
 ```
